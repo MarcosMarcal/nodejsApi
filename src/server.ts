@@ -1,5 +1,6 @@
+import "reflect-metadata"
+import "../database/db" 
 import express from "express"
-// yarn add @types/express -D 
 
 const app = express()
 
